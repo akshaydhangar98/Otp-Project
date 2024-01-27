@@ -1,0 +1,25 @@
+input {
+    background-color: antiquewhite;
+}
+
+button {
+background-color: #8a2be2;
+width: 100px;
+height: 30px;
+border-radius: 10px;
+border: none;
+}
+
+div {
+border: 2px solid;
+background-color: aquamarine;
+text-align: center;
+padding: 20px;
+}
+
+#output {
+border: 2px dotted;
+background-color: orange;
+font-style: italic;
+text-align: center;
+}
